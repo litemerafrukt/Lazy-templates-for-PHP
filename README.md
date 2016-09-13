@@ -1,7 +1,6 @@
 # Ltpl - Lazy templates
 Very simple templating for PHP. A kind of boilerplate. Add stuff you
-need when you need it. Think KISS. But mostly skip it, there are
-good and mature alternetives :)
+need when you need it. Think KISS.
 
 Use {@somekeyname} in your template html file to substitute with
 a value from $key => $value array.
